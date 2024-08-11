@@ -1,0 +1,23 @@
+nav bar te background color matan 
+<nav> secttion te akathu" bg-light  " athile light mattyyal mathi
+    colors in bootstrap
+    * warning
+    *light
+    *
+
+
+
+$ test te color mattan
+  text-white 
+    
+
+% bold akkan
+fw-bold 
+
+button te hover cheyyumbol color change cheyyunathu matan vendi outline ennathu kalanjal mathi
+
+text ne center lek mattan text-center
+
+border kodukkan
+border-2 border-warning 
+eg.                        <div class="card border-2 border-warning" style="width: 18rem;">
